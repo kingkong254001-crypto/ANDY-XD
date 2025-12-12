@@ -3,13 +3,13 @@
 
 const settings = {
   // 🏷️ Sticker Settings
-  packname: '💎 MINATO MD 💎',
-  author: '👑 MINATO NAMIKAZE 🇯🇵',
+  packname: '💎 ANDY XD 💎',
+  author: '👑 ANDY IBRAAH 🇯🇵',
 
   // 🤖 Bot Identity
-  botName: '⚡ MINATO MD ⚡',
-  botOwner: '🌍 MINATO NAMIKAZE 🇯🇵',   // Change to your name if needed
-  ownerNumber: '8801719741293',        // Your number without + symbol
+  botName: '⚡ ANDY XD ⚡',
+  botOwner: '🌍 ANDY IBRAAH 🇯🇵',   // Change to your name if needed
+  ownerNumber: '254743454830',        // Your number without + symbol
 
   // 🎬 APIs
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq', // For GIF commands
